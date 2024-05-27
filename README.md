@@ -12,8 +12,12 @@ Provide data-driven recommendations for optimizing hotel operations and marketin
 Technologies Used
 
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
