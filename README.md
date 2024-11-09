@@ -88,4 +88,18 @@ To further enhance this analysis:
 
 ---
 
+## Related Projects
+- **Tableau Dashboard for OYO Hotel Booking**
+  ![Tableau Logo](https://github.com/Girish-Parashar/EDA-TO-DASHBOARDS-USING-TABLEAU/blob/main/tableau.png)
+  
+If you're interested in visualizing the insights gained from this analysis, check out the interactive Tableau dashboard for this project:
+
+  [![View Dashboard](https://img.shields.io/badge/View_Dashboard-Tableau-blue?logo=tableau&logoColor=white)](https://github.com/Girish-Parashar/your-tableau-dashboard-repo-link)  
+  
+This dashboard visualizes key findings and booking trends from the OYO hotel dataset, allowing for a more interactive exploration of the data.
+
+
+
+---
+
 Thank you for exploring the **Hotel Booking Analysis** project! 🌟
