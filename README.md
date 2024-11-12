@@ -1,4 +1,7 @@
-![logo](https://github.com/Girish-Parashar/EDA-Hotel-_Booking/blob/main/charts/Banner.png)
+
+<p align="center">
+  <img src="https://github.com/Girish-Parashar/OYO-Hotel-_Booking-EDA/blob/main/Leonardo_Phoenix_Create_an_intricate_visually_stunning_poster_1.jpg" width="500"/>
+</p>
 
 
 # Hotel Booking Analysis 🏨📊
